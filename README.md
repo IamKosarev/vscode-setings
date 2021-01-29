@@ -1,4 +1,4 @@
-# vscode-setings
+# vscode-settings
 
 {
   "files.autoSave": "afterDelay",
